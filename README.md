@@ -1,2 +1,2 @@
-# 100_Python_Projects_Challenge
- 
+## 100 Python Projects Challenge
+001 Band Name Generator
