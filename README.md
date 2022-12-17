@@ -3,3 +3,4 @@
 002 Tip Calculator  
 003 Treasure Island  
 004 Rock Paper Scissors  
+005 Password Generator  
