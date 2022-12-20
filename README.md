@@ -4,3 +4,4 @@
 003 Treasure Island  
 004 Rock Paper Scissors  
 005 Password Generator  
+006 Hangman  
