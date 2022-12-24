@@ -1,6 +1,6 @@
 # Treasure Island
 ## Summary
-The game make used of if/else statement to trigger different results which determined by the values from input function.
+This game make used of if/else statement to trigger different results which determined by the values from input function.
 
 ## Objective  
 - Utilize if/else statement to create the situational results which can be triggered by the input values.
