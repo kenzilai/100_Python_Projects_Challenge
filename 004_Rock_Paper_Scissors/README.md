@@ -4,6 +4,6 @@ This game will ask the player to type in a integer that represented Rock, Paper 
 If the input matches one of the represented integer, the computer will alse choose a random integer and print the ASCII art, then run through a set of rules using if/else statement to determine if the player is win, lose or it's a draw.
 
 ## Objective  
-- Implement randint() method to generate a random number by importing random module
+- Implement randint( ) method to generate a random number by importing random module
 - Utilize if/else statement to create the situational results which can be triggered by the input values
 - Use lower( ) to ensure the input data are lowercase to match the criteria in the if/else statement
