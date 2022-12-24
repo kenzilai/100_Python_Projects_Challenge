@@ -35,8 +35,8 @@ if my_choice >= 3 or my_choice < 0:
 else:
     print("You chose:")
     print(choice_img[int(my_choice)])
+    
     computer_choice = random.randint(0, 2)
-
     print("Computer chose:")
     print(choice_img[int(computer_choice)])
 
