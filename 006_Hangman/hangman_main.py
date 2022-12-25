@@ -42,5 +42,4 @@ while not end_game:
         end_game = True
         print(stages[lives])
         print(f"{' '.join(display)}")
-        
         print("Good job! You guessed the correct word! You win!")
