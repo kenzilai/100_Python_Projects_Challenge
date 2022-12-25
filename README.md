@@ -5,3 +5,4 @@
 004 Rock Paper Scissors  
 005 Password Generator  
 006 Hangman  
+007 Caesar Cipher  
