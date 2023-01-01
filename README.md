@@ -6,3 +6,5 @@
 005 Password Generator  
 006 Hangman  
 007 Caesar Cipher  
+008 Secret Auction Program  
+009 Calculator
